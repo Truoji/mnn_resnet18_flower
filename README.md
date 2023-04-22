@@ -1,0 +1,2 @@
+# mnn_resnet18_flower
+使用花分类数据集训练resnet18，测试每个模型的各项指标
